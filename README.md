@@ -24,13 +24,13 @@ I am a passionate Full-Stack Developer specializing in modern web technologies. 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umar-dev01&theme=tokyonight&no-frame=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=umar-dev01&theme=tokyonight&no-frame=true&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=umar-dev01&icon=5&color=6" />
+<img src="https://komarev.com/ghpvc/?username=umar-dev01&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
