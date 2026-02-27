@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=false&vCenter=true&width=600&lines=Hi+all,+I+am+Umar+Fazal;Full-Stack+Developer;MERN+Stack+Specialist;Backend+Architecture+Expert)](https://git.io/typing-svg)
 
-𝐼 𝑎𝑚 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝐹𝑢𝑙𝑙-𝑆𝑡𝑎𝑐𝑘 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑠𝑝𝑒𝑐𝑖𝑎𝑙𝑖𝑧𝑖𝑛𝑔 𝑖𝑛 𝑚𝑜𝑑𝑒𝑟𝑛 𝑤𝑒𝑏 𝑡𝑒𝑐ℎ𝑛𝑜𝑙𝑜𝑔𝑖𝑒𝑠. 𝐼 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑠𝑐𝑎𝑙𝑎𝑏𝑙𝑒, ℎ𝑖𝑔ℎ-𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒 𝑎𝑝𝑝𝑙𝑖𝑐𝑎𝑡𝑖𝑜𝑛𝑠 𝑢𝑠𝑖𝑛𝑔 𝑡ℎ𝑒 𝑀𝐸𝑅𝑁 𝑠𝑡𝑎𝑐𝑘, 𝑤𝑖𝑡ℎ 𝑠𝑡𝑟𝑜𝑛𝑔 𝑒𝑥𝑝𝑒𝑟𝑡𝑖𝑠𝑒 𝑖𝑛 𝑏𝑎𝑐𝑘𝑒𝑛𝑑 𝑎𝑟𝑐ℎ𝑖𝑡𝑒𝑐𝑡𝑢𝑟𝑒, 𝐴𝑃𝐼 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡, 𝑎𝑛𝑑 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑑𝑒𝑠𝑖𝑔𝑛. 𝐼 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑖𝑛 𝑤𝑟𝑖𝑡𝑖𝑛𝑔 𝑐𝑙𝑒𝑎𝑛, 𝑚𝑎𝑖𝑛𝑡𝑎𝑖𝑛𝑎𝑏𝑙𝑒 𝑐𝑜𝑑𝑒 𝑎𝑛𝑑 𝑐𝑜𝑛𝑡𝑖𝑛𝑢𝑜𝑢𝑠𝑙𝑦 𝑖𝑚𝑝𝑟𝑜𝑣𝑖𝑛𝑔 𝑚𝑦 𝑡𝑒𝑐ℎ𝑛𝑖𝑐𝑎𝑙 𝑠𝑘𝑖𝑙𝑙𝑠 𝑡𝑜 𝑑𝑒𝑙𝑖𝑣𝑒𝑟 𝑟𝑒𝑎𝑙-𝑤𝑜𝑟𝑙𝑑 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠.
+I am a passionate Full-Stack Developer specializing in modern web
+technologies. I focus on building scalable, high-performance
+applications using the MERN stack, with strong expertise in backend
+architecture, API development, and database design. I believe in
+writing clean, maintainable code and continuously improving my
+technical skills to deliver real-world solutions.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568450665686) 
