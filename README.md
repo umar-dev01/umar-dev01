@@ -15,7 +15,7 @@ I am a passionate Full-Stack Developer specializing in modern web technologies. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=umar-dev01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=umar-dev01&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=umar-dev01&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-dev01&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
