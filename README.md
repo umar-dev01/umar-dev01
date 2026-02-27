@@ -21,7 +21,11 @@ I am a passionate Full-Stack Developer specializing in modern web technologies. 
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Umar Fazal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=umar-dev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Umar Fazal&icon=0&color=0)](https://visitcount.itsvg.in)
