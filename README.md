@@ -27,6 +27,6 @@ I am a passionate Full-Stack Developer specializing in modern web technologies. 
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Umar Fazal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=UmarFazal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
