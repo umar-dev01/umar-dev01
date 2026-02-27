@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a passionate Full-Stack Developer specializing in modern web technologies. I focus on building scalable, high-performance applications using the MERN stack, with strong expertise in backend architecture, API development, and database design. I believe in writing clean, maintainable code and continuously improving my technical skills to deliver real-world solutions.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568450665686) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-tech-dev/) 
@@ -12,25 +11,20 @@ I am a passionate Full-Stack Developer specializing in modern web technologies. 
 
 # 📊 GitHub Stats:
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umar-dev01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=umar-dev01&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-dev01&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umar-dev01&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umar-dev01&theme=tokyonight&utcOffset=5" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umar-dev01&theme=tokyonight" height="165"/>
 </p>
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=umar-dev01&theme=tokyonight&no-frame=true&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umar-dev01&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=umar-dev01&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=umar-dev01&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
